@@ -1,0 +1,7 @@
+package ph.edu.dlsu.ADT;
+
+public class ListIndexOutOfBoundsException extends IndexOutOfBoundsException{
+    public ListIndexOutOfBoundsException(String s){
+        super(s);
+    }//end constructor
+} //end ListIndexOutofBoundsException
