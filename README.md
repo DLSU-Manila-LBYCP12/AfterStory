@@ -74,7 +74,18 @@ Lastly, the “Save” and the menu options would be implanted either in-game sc
 
 ### Important Questions:
 
-1. 
+
+1. What makes your project special?
+2. How is it different from the others, despite maybe having the same genre?
+3. What is the significance of it? What would it benefit me?
+4. How will I be interested in the game? How do you convince me to play the game?
+5. What if I don't like it by just looking at it? What if I don't want to play it, and choose another one instead?
+6. Who will be your target audience, excluding me? How will you be sure that they will like it?
+7. Is there another thing you can do besides games? Why did you chose that in the first place? 
+8. Would you still continue the project after being accepted and credited? After the subject?
+9. How will you improve it? What would be your added features in the future?
+
+
 
 ###Division of Labor:
 (No proper/exact distribution to each memeber, instead the way of creating this program are the ff.)
