@@ -51,7 +51,7 @@ Lastly, the “Save” and the menu options would be implanted either in-game sc
 
 -	Battle System
 
-![10]()	
+![10](https://github.com/DLSU-Manila-LBYCP12/AfterStory/blob/master/Flowcharts/Battle%20Flowchart.jpg)	
 
 - Options File
 
