@@ -53,7 +53,7 @@ Lastly, the “Save” and the menu options would be implanted either in-game sc
 
 ![10](https://github.com/DLSU-Manila-LBYCP12/AfterStory/blob/master/Flowcharts/Battle%20Flowchart.jpg)	
 
-- Game Menu File
+- Game Menu
 
 ![11](https://github.com/DLSU-Manila-LBYCP12/AfterStory/blob/master/Flowcharts/Menu%20File%20(Side).jpg)
 
