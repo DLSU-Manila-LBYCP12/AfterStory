@@ -47,7 +47,7 @@ Lastly, the “Save” and the menu options would be implanted either in-game sc
 
 -	Interaction
 
-![9]()
+![9](https://github.com/DLSU-Manila-LBYCP12/AfterStory/blob/master/Flowcharts/Interaction.jpg)
 
 -	Battle System
 
