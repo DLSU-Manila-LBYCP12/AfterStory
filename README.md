@@ -39,7 +39,7 @@ Lastly, the “Save” and the menu options would be implanted either in-game sc
 ###Flowchart:
 -	Main
 
-![7]()
+![7](https://github.com/DLSU-Manila-LBYCP12/AfterStory/blob/master/Picture%207.png)
 
 -	Storyline
 
