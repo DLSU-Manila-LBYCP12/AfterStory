@@ -63,6 +63,12 @@ public class MainMenu extends GraphicsProgram implements ActionListener {
         label.setFont(font);
         label.setForeground(Color.WHITE);
         add(label, getWidth()/2 - 75, getHeight()/3);
+         label.addMouseListener(new MouseAdapter() {
+            public void mouseClicked(MouseEvent e) {
+                Game game = new Game();
+                game.create();
+            }
+        });
     }
 
 
